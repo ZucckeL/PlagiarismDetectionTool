@@ -8,3 +8,6 @@ These parts are this project foundation.
 -DFS(Deep First Search)
 -RKR(Running Karp-Rabin)
 -GST(Greedy String Tiling)
+
+User must be selected directories of the project's java files. And Press RUN ALL button.(For All Project's Files)
+On the other hand, user can compare to java files one by one. You must select number of files from the lists, And you must be use RUN button. You can compare this way.
