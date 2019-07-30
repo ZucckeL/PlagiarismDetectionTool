@@ -14,3 +14,5 @@ On the other hand, user can compare to java files one by one. You must select nu
 
 The detail results shown in RESULT button. 
 The Result Panel contains file names, file similarities, and most similar file information.
+
+RESET button is brings the program to the initial settings.
