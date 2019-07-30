@@ -11,3 +11,6 @@ These parts are this project foundation.
 
 User must be selected directories of the project's java files. And Press RUN ALL button.(For All Project's Files)
 On the other hand, user can compare to java files one by one. You must select number of files from the lists, And you must be use RUN button. You can compare this way.
+
+The detail results shown in RESULT button. 
+The Result Panel contains file names, file similarities, and most similar file information.
